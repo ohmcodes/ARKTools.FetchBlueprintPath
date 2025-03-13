@@ -1,0 +1,68 @@
+[
+  {
+    "item_name": "Scope",
+    "category": "Items",
+    "sub_category": "WeaponAttachments",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemWeaponAttachment_Scope_C",
+    "engram": "EngramEntry_Scope_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Scope.PrimalItemWeaponAttachment_Scope'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Scope"
+  },
+  {
+    "item_name": "HoloScope",
+    "category": "Items",
+    "sub_category": "WeaponAttachments",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemWeaponAttachment_HoloScope_C",
+    "engram": "EngramEntry_HoloScope_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_HoloScope.PrimalItemWeaponAttachment_HoloScope'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_HoloScope"
+  },
+  {
+    "item_name": "Laser",
+    "category": "Items",
+    "sub_category": "WeaponAttachments",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemWeaponAttachment_Laser_C",
+    "engram": "EngramEntry_Laser_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Laser.PrimalItemWeaponAttachment_Laser'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Laser"
+  },
+  {
+    "item_name": "Silencer",
+    "category": "Items",
+    "sub_category": "WeaponAttachments",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemWeaponAttachment_Silencer_C",
+    "engram": "EngramEntry_Silencer_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Silencer.PrimalItemWeaponAttachment_Silencer'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Silencer"
+  },
+  {
+    "item_name": "Flashlight",
+    "category": "Items",
+    "sub_category": "WeaponAttachments",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemWeaponAttachment_Flashlight_C",
+    "engram": "EngramEntry_Flashlight_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Flashlight.PrimalItemWeaponAttachment_Flashlight'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Flashlight"
+  },
+  {
+    "item_name": "ZipLineMotor",
+    "category": "Items",
+    "sub_category": "WeaponAttachments",
+    "type": "",
+    "map": "Aberration",
+    "class": "EngramEntry_ZipLineMotor_C",
+    "engram": "EngramEntry_ZipLineMotor_C",
+    "blueprint_path": "Blueprint'/Game/Aberration/CoreBlueprints/Items/WeaponAttachments/EngramEntry_ZipLineMotor.EngramEntry_ZipLineMotor'",
+    "real_path": "/Game/Aberration/CoreBlueprints/Items/WeaponAttachments/EngramEntry_ZipLineMotor"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "item_name": "IceWorm",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_IceWorm_C",
+    "engram": "EngramEntry_IceWorm_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_IceWorm.PrimalItemTrophy_IceWorm'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_IceWorm"
+  },
+  {
+    "item_name": "Gorilla_Gamma",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Gorilla_Gamma_C",
+    "engram": "EngramEntry_Gorilla_Gamma_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla_Gamma.PrimalItemTrophy_Gorilla_Gamma'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla_Gamma"
+  },
+  {
+    "item_name": "Gorilla_Beta",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Gorilla_Beta_C",
+    "engram": "EngramEntry_Gorilla_Beta_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla_Beta.PrimalItemTrophy_Gorilla_Beta'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla_Beta"
+  },
+  {
+    "item_name": "Gorilla_Alpha",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Gorilla_Alpha_C",
+    "engram": "EngramEntry_Gorilla_Alpha_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla_Alpha.PrimalItemTrophy_Gorilla_Alpha'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla_Alpha"
+  },
+  {
+    "item_name": "Gorilla",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Gorilla_C",
+    "engram": "EngramEntry_Gorilla_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla.PrimalItemTrophy_Gorilla'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla"
+  },
+  {
+    "item_name": "Dragon_Gamma",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Dragon_Gamma_C",
+    "engram": "EngramEntry_Dragon_Gamma_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon_Gamma.PrimalItemTrophy_Dragon_Gamma'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon_Gamma"
+  },
+  {
+    "item_name": "Dragon_Beta",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Dragon_Beta_C",
+    "engram": "EngramEntry_Dragon_Beta_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon_Beta.PrimalItemTrophy_Dragon_Beta'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon_Beta"
+  },
+  {
+    "item_name": "Dragon_Alpha",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Dragon_Alpha_C",
+    "engram": "EngramEntry_Dragon_Alpha_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon_Alpha.PrimalItemTrophy_Dragon_Alpha'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon_Alpha"
+  },
+  {
+    "item_name": "Dragon",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Dragon_C",
+    "engram": "EngramEntry_Dragon_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon.PrimalItemTrophy_Dragon'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon"
+  },
+  {
+    "item_name": "Broodmother_Gamma",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Broodmother_Gamma_C",
+    "engram": "EngramEntry_Broodmother_Gamma_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother_Gamma.PrimalItemTrophy_Broodmother_Gamma'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother_Gamma"
+  },
+  {
+    "item_name": "Broodmother_Beta",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Broodmother_Beta_C",
+    "engram": "EngramEntry_Broodmother_Beta_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother_Beta.PrimalItemTrophy_Broodmother_Beta'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother_Beta"
+  },
+  {
+    "item_name": "Broodmother_Alpha",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Broodmother_Alpha_C",
+    "engram": "EngramEntry_Broodmother_Alpha_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother_Alpha.PrimalItemTrophy_Broodmother_Alpha'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother_Alpha"
+  },
+  {
+    "item_name": "Broodmother",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_Broodmother_C",
+    "engram": "EngramEntry_Broodmother_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother.PrimalItemTrophy_Broodmother'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother"
+  },
+  {
+    "item_name": "ARKLogo",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_ARKLogo_C",
+    "engram": "EngramEntry_ARKLogo_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_ARKLogo.PrimalItemTrophy_ARKLogo'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_ARKLogo"
+  },
+  {
+    "item_name": "AlphaWyvern",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_AlphaWyvern_C",
+    "engram": "EngramEntry_AlphaWyvern_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaWyvern.PrimalItemTrophy_AlphaWyvern'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaWyvern"
+  },
+  {
+    "item_name": "AlphaWorm",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_AlphaWorm_C",
+    "engram": "EngramEntry_AlphaWorm_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaWorm.PrimalItemTrophy_AlphaWorm'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaWorm"
+  },
+  {
+    "item_name": "AlphaRex",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "PrimalEarth",
+    "class": "PrimalItemTrophy_AlphaRex_C",
+    "engram": "EngramEntry_AlphaRex_C",
+    "blueprint_path": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaRex.PrimalItemTrophy_AlphaRex'",
+    "real_path": "/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaRex"
+  },
+  {
+    "item_name": "Rockwell_Beta_Alpha",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "Aberration",
+    "class": "PrimalItemTrophy_Rockwell_Beta_Alpha_C",
+    "engram": "EngramEntry_Rockwell_Beta_Alpha_C",
+    "blueprint_path": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Rockwell_Beta_Alpha.PrimalItemTrophy_Rockwell_Beta_Alpha'",
+    "real_path": "/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Rockwell_Beta_Alpha"
+  },
+  {
+    "item_name": "Rockwell_Beta",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "Aberration",
+    "class": "PrimalItemTrophy_Rockwell_Beta_C",
+    "engram": "EngramEntry_Rockwell_Beta_C",
+    "blueprint_path": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Rockwell_Beta.PrimalItemTrophy_Rockwell_Beta'",
+    "real_path": "/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Rockwell_Beta"
+  },
+  {
+    "item_name": "Rockwell",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "Aberration",
+    "class": "PrimalItemTrophy_Rockwell_C",
+    "engram": "EngramEntry_Rockwell_C",
+    "blueprint_path": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Rockwell.PrimalItemTrophy_Rockwell'",
+    "real_path": "/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Rockwell"
+  },
+  {
+    "item_name": "Flag_Rockwell",
+    "category": "Items",
+    "sub_category": "Trophies",
+    "type": "",
+    "map": "Aberration",
+    "class": "PrimalItemStructure_Flag_Rockwell_C",
+    "engram": "EngramEntry_Flag_Rockwell_C",
+    "blueprint_path": "Blueprint'/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemStructure_Flag_Rockwell.PrimalItemStructure_Flag_Rockwell'",
+    "real_path": "/Game/Aberration/CoreBlueprints/Items/Trophies/PrimalItemStructure_Flag_Rockwell"
+  }
+]
